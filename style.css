@@ -1,1 +1,6 @@
-/* CSS Style Sheet */
+h1{
+    text-align: center;
+}
+hr{
+    width: 600px;
+}
